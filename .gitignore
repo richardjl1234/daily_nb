@@ -1,0 +1,17 @@
+temp/*
+.env*
+result/*
+input/csv/*
+input/*
+*.xlsx
+*.csv
+jcl/j*.jcl
+temp*
+adhoc_sql.sql
+sql/*
+env.list
+.secrets.baseline
+trig911.sh
+list.txt
+list0.txt
+.ipynb*

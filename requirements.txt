@@ -1,0 +1,14 @@
+pandas
+numpy
+xlsxwriter
+boxsdk
+requests
+ibm_db
+addict
+xlrd
+openpyxl
+cloudant
+jupyter
+boxsdk[jwt]
+pyjwt[crypto]
+
